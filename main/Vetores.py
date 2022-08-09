@@ -4,8 +4,8 @@ import sys
 import os
  
 # adding Folder_2 to the system path #in case it gets pulled to another computer, pls map the path where the project is
-##sys.path.insert(0, '/home/amaru/Documents/UFN/computacaoGrafica/functions') #ubuntu path
-sys.path.insert(0,'d:/ComputacaoGrafica/functions') ##windows path
+sys.path.insert(0, '/home/amaru/Documents/UFN/computacaoGrafica/functions') #ubuntu path
+##sys.path.insert(0,'d:/ComputacaoGrafica/functions') ##windows path
  
 # importing the add and odd_even
 # function
